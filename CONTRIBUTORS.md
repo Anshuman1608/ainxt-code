@@ -14,4 +14,4 @@ Harshvardhan Singh Parihar - National Payments Corporation of India - harshvardh
 Vishnu Kumar - National Payments Corporation of India - vishnukumar.br@npci.org.in
 Pavan Ms - National Payments Corporation of India - pavan.ms@npci.org.in
 Priyadharshan R - National Payments Corporation of India - priyadharshan.r@npci.org.in
-
+Jayesh Bhere - National Payments Corporation of India - jayesh.bhere@npci.org.in
