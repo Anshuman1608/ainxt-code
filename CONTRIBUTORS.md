@@ -22,3 +22,4 @@ Sutari Reddy - National Payments Corporation of India - sutari.reddy@npci.org.in
 Muthu Narendran - National Payments Corporation of India - muthu.narendran@npci.org.in
 Aditya Metha - National Payments Corporation of India - adityamohan.metha@npci.org.in
 Saravanan A - National Payments Corporation of India - saravanan.a@npci.org.in
+Sangeetha Murugesan - National Payments Corporation of India - sangeetha.murugesan@npci.org.in
